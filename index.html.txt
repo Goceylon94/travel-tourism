@@ -1,0 +1,11 @@
+go-ceylon-travel/
++-- index.html        — Hero slider, featured destinations, packages, testimonials, FAQ, newsletter
++-- about.html        — Story, mission & vision, why-us, team section
++-- destinations.html — 10 destinations (Ella, Sigiriya, Kandy, Galle, Mirissa, Yala...) with filtering
++-- packages.html     — 8 packages (Adventure, Cultural, Safari, Beach, Honeymoon, Family, Hill Country, Custom)
++-- gallery.html      — Masonry grid + lightbox (arrow keys & ESC work)
++-- contact.html      — Info card, validated form, WhatsApp button, Google Maps
++-- booking.html      — Full booking form with validation + instant WhatsApp confirmation link
++-- css/style.css     — Emerald/ocean/gold theme, glassmorphism, animations, fully responsive
++-- js/script.js      — All interactivity, commented for learning
++-- README.md         — Setup instructions
